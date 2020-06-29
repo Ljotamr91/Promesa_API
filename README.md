@@ -8,3 +8,6 @@ Siguiendo la estructura de NPM y marcando los git, cuando vayamos avanzando en n
 
 Para cumplir con la tarea, tenéis que recoger la idea de las promesas y hacer exactamente lo mismo que en el ejemplo que hice yo de la API, pero yo lo hice con los 'callbacks'.
 Eliminamos los 'callbacks', de la ecuación y los sustituimos por las promesas.
+
+https://www.youtube.com/watch?v=_WIFLZ-lW2w&feature=em-share_video_user
+
